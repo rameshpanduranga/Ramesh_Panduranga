@@ -1,0 +1,11 @@
+#!/bin/bash
+
+meeting_schedule_conflict -input "meeting_schedule.txt" -test
+ret=`diff output.txt meeting_schedule_conflict_output_baseline.txt`
+
+if [ "$ret" != "" ]; then
+	echo "Test run with meeting_schedule.txt has failed"
+	echo $ret
+else
+	echo "Test run with meeting_schedule.txt is successfull"
+fi

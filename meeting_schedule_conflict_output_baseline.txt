@@ -1,0 +1,12 @@
+Schedule 9:00am,10:00am conflicts with 9:15am,10:15am
+Schedule 9:00am,10:00am conflicts with 9:30am,10:30am
+Schedule 10:00am,10:30am conflicts with 9:15am,10:15am
+Schedule 9:15am,10:15am conflicts with 9:00am,10:00am
+Schedule 9:15am,10:15am conflicts with 10:00am,10:30am
+Schedule 9:15am,10:15am conflicts with 9:30am,10:30am
+Schedule 9:30am,10:30am conflicts with 9:00am,10:00am
+Schedule 9:30am,10:30am conflicts with 10:00am,10:30am
+Schedule 9:30am,10:30am conflicts with 9:15am,10:15am
+Schedule 10:45am,1:00pm conflicts with 12:00pm,1:00pm
+Schedule 8:00pm,9:00pm conflicts with 8:30pm,9:30pm
+Schedule 8:30pm,9:30pm conflicts with 8:00pm,9:00pm
